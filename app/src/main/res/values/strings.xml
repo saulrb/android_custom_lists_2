@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">M6_SRB_LABO_ListasPersonalizadas2</string>
+    <string name="Jugadores">Jugadores</string>
+    <string name="title_activity_jugador">JugadorActivity</string>
+    <string name="nombre">Nombre</string>
+    <string name="tomar_foto">Tomar Foto</string>
+    <string name="guardar">Guardar</string>
+    <string name="foto">Foto</string>
+</resources>
